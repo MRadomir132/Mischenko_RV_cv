@@ -15,8 +15,6 @@
 
 ## Участие в проектах
 
-[Онлайн Журнал](http://radomir.7m.pl) - проект сайта на HTML с использованием CSS и JavsScript
+- [Онлайн Журнал](http://radomir.7m.pl) - проект сайта на HTML с использованием CSS и JavsScript
 - Участие в проекте по созданию реляционной базы данных
-[!RELBASE(https://imgur.com/n4Yguk4)]
-[!RELBASE2(https://imgur.com/7ShDbxn)]
 - Создание проекта короткой анимации с помощью инструментов Qt.
